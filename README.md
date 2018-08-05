@@ -13,7 +13,7 @@ These guidelines are based on the team's researches and own experience. This doc
 
 ## ADR
 
-### Whats is an ADR
+### What is an ADR
 
 An architectural decision (AD) is a software design choice that addresses a 
 significant requirement. An architecturally significant requirement (ASR) is a 
