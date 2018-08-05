@@ -179,7 +179,7 @@ It will help developers to quickly identify a specific feature and  define featu
 
 ## Domain Driven Design
 
-### Align you project and domain
+### Align your project and domain
 
 We consider that your Domain model should always be reflected in your code. This translates, in part, in the way that you organize your project.
 In Domain Driven Design it is strongly advised to deploy your modules according to domain elements, not depending on technical layers. It helps in terms of scalability, maintainablity, but also in understanding your project. There is only so much the human brain can make up for and it is difficult to understand what you are working on if your domain element is separated accross modules. You should follow this rule when organizing your project.
